@@ -1,4 +1,4 @@
 # Demo
 This is my first git
 <br>
-Author-Nischal Neupane 
+Author-Nischal Neupane Dash Dash
